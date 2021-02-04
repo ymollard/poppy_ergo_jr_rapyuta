@@ -1,0 +1,6 @@
+[submodule "poppy_ergo_jr_description"]
+	path = poppy_ergo_jr_description
+	url = https://github.com/poppy-project/poppy_ergo_jr_description
+[submodule "poppy_ergo_jr_moveit_config"]
+	path = poppy_ergo_jr_moveit_config
+	url = https://github.com/poppy-project/poppy_ergo_jr_moveit_config
