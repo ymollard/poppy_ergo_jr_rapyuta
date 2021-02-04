@@ -4,3 +4,6 @@
 [submodule "poppy_ergo_jr_moveit_config"]
 	path = poppy_ergo_jr_moveit_config
 	url = https://github.com/poppy-project/poppy_ergo_jr_moveit_config
+[submodule "poppy_controllers"]
+	path = poppy_controllers
+	url = https://github.com/poppy-project/poppy_controllers
