@@ -4,6 +4,8 @@ import rospy
 from moveit_commander.move_group import MoveGroupCommander
 rospy.init_node('move_example')
 
+rospy.loginfo("Waiting 15 sec before actually starting...")
+rospy.sleep(15)
 rospy.loginfo("Connecting to move group...")
 commander = MoveGroupCommander("arm_and_finger")
 rospy.loginfo("Connected!")
