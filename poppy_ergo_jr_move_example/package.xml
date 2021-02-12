@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>poppy_ergo_jr_move_example</name>
+  <version>0.0.2</version>
+  <description>Move Example for running Poppy Ergo Jr through Rapyuta</description>
+  <maintainer email="yoan.mollard@poppy-station.org">Yoan Mollard</maintainer>
+  <license>GPLv3</license>
+  <url type="website">http://poppy-project.org</url>
+
+  <depend>poppy_ergo_jr_moveit_config</depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
