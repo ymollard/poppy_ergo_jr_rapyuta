@@ -8,7 +8,7 @@
   <url type="website">http://poppy-project.org</url>
 
   <depend>poppy_ergo_jr_moveit_config</depend>
-  <exec_depend>moveit_ros_move_group</exec_depend>
+  <exec_depend>moveit_commander</exec_depend>
 
   <buildtool_depend>catkin</buildtool_depend>
 
